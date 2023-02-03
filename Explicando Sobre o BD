@@ -1,0 +1,7 @@
+## banco de dados médico
+Dentro dessa pasta est cada parte do meu banco de dados separados, e aqui explicarei um pouco de como cada parte funciona
+ Este Banco de Dados foi desenvolvido como um projeto de final de semestre na faculdade em que eu estudo, aonde continha mais 3 alunos juntos a min para desevolve-lo.
+
+com está nota direi como cada parte fuciona e oque foi utilizado.
+
+De principal usamos o Sql Server para montar nosso servidor local para que pudesse dar continuidade ao projeto, comecei desevolvendo ele inicialmente pelo Visual Studio usando Python, depois que desenvolvi todo o corpo do projeto fiz a ligação dele ao banco de dados e fui ao SQL para fazer o restante, depois da conexão usei a ferramente QtDesigner para que pudesse criar a interface, depois de desevolver tudo, fiz a ligação de cada tela e setei as funções de cada
